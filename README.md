@@ -54,4 +54,4 @@ We have used:
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository]([[https://github.com/](https://github.com/Borysdb/Project_1_Password_Generator_in_Python/edit/main/](https://github.com/Borysdb/Project_1_Password_Generator_in_Python.git)])
+[Repository](https://github.com/Borysdb/Project_1_Password_Generator_in_Python.git)
