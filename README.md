@@ -13,7 +13,8 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+We were sad to learn that Grandma’s recent password was hacked!
+To help her in better securing her online accounts, we decided to create Strong Passwords Generator.
 
 ## Rules
 Briefly describe the rules of the game.
